@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SalaryAccounting.Models
+﻿namespace SalaryAccounting.Models
 {
     public abstract class Worker
     {
